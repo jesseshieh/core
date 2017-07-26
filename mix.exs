@@ -51,6 +51,7 @@ defmodule Core.Mixfile do
      {:html_sanitize_ex, "~> 1.0.0"},
      {:geo, "~> 1.5"},
      {:topo, "~> 0.1.0"},
+     {:distillery, "~> 1.0.0"},
      {:remodel, "~> 0.0.4"}]
   end
 
